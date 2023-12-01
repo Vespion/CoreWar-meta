@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Meta",
+			"path": "."
+		},
+		{
+			"name": "Language",
+			"path": "lib/lang"
+		}
+	],
+	"settings": {
+		"explorer.excludeGitIgnore": false,
+		"files.exclude": {
+			"lib/": true,
+			"apps/": true
+		}
+	}
+}
